@@ -17,7 +17,7 @@ app.set("views", path.join(__dirname, "views"));
 // Database configuration
 // Update with your own DB info from azure
 const config = {
-  user: "azureuser",
+  user: "adminuser",
   password: "P@ssw0rdssss",
   server: "c0933843act3.database.windows.net",
   database: "C0933843DB",
