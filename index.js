@@ -16,6 +16,7 @@ app.set("views", path.join(__dirname, "views"));
 
 // Database configuration
 // Update with your own DB info from azure
+//
 const config = {
   user: "adminuser",
   password: "P@ssw0rdssss",
